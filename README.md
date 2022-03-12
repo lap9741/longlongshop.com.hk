@@ -30,6 +30,7 @@ Monogram塗層帆布
 鏈帶垂直高度：24.0 厘米
 此產品於法國、西班牙、意大利或美國製造
 ```
+![image](https://github.com/lap9741/longlongshop.com.hk/blob/main/KH46343BDVH3TLGK6CJX2GZ7JI.jpg?raw=true)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
