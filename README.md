@@ -11,7 +11,7 @@
 [Facebook](https://www.facebook.com/HongKongSiuMaiConcernGroup/)　　　
 [Instagram](https://www.instagram.com/xxxibgdrgn/)　　
 [WhatsApp](https://wa.me/85290171900)　　
-```查詢及購買產品,歡迎與我們聯繫```
+[查詢及購買產品,歡迎與我們聯繫](https://wa.me/85290171900)
 
  　　　　  　　
 
