@@ -28,7 +28,7 @@ Monogram塗層帆布
 此產品於法國、西班牙、意大利或美國製造
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[立即購買](立即購買 https://wa.me/85290171900).
 
 ### Jekyll Themes
 
