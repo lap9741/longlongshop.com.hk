@@ -1,6 +1,6 @@
 ## 歡迎嚟到長長商店
 
-歡迎嚟到長長商店.我哋有包羅萬有嘅商品
+歡迎嚟到長長商店.我哋有包羅萬有嘅商品 [查詢及購買產品,歡迎與我們聯繫](https://wa.me/85290171900)
 
 
 
@@ -30,7 +30,16 @@ Monogram塗層帆布
 
 [立即購買](https://wa.me/85290171900)
 
-### Jekyll Themes
+[查詢及購買產品,歡迎與我們聯繫](https://wa.me/85290171900)
+### 每日更新
+
+[FACEBOOK](https://www.facebook.com/HongKongSiuMaiConcernGroup/)
+
+[Instagram](https://www.instagram.com/xxxibgdrgn/)
+
+[WhatsApp](https://wa.me/85290171900)
+
+[查詢及購買產品,歡迎與我們聯繫](https://wa.me/85290171900)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lap9741/longlongshop.com.hk/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
