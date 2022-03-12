@@ -1,5 +1,5 @@
 ## 長長商店
-## LongLongShop
+
 
 歡迎嚟到長長商店.我哋有包羅萬有嘅商品
 
@@ -7,6 +7,8 @@
 ### 每日更新
 
 
+
+ 　　
 [Facebook](https://www.facebook.com/HongKongSiuMaiConcernGroup/)　　　
 [Instagram](https://www.instagram.com/xxxibgdrgn/)　　
 [WhatsApp](https://wa.me/85290171900)　　
@@ -46,6 +48,10 @@ Monogram塗層帆布
 　
  　　　　  　　
  　　
+ 　　
+
+ 　　
+
  　　
 ### 每日更新
 
