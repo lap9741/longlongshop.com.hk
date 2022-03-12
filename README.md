@@ -1,29 +1,32 @@
-## Welcome to GitHub Pages
+## 歡迎嚟到長長商店
 
-You can use the [editor on GitHub](https://github.com/lap9741/longlongshop.com.hk/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+歡迎嚟到長長商店.我哋有包羅萬有嘅商品
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Louis Vuitton - MULTI POCHETTE ACCESSOIRES
+
+這款Multi Pochette Accessoires是一款混合式斜背袋，設有多個口袋和隔層，結合隨身包、迷你隨身包和圓形零錢包於一身。袋款以Monogram帆布製作，兩個小型隨身包的側面飾有迷你Monogram圖案，設有可拆式金色鏈帶和可調節長度的Louis Vuitton標誌提花肩帶，方便以不同方式攜帶。
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+https://hk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/%E8%B7%AF%E6%98%93%E5%A8%81%E7%99%BB-multi-pochette-accessoires-monogram-%E5%B8%86%E5%B8%83-%E6%99%82%E5%B0%9A%E6%89%8B%E8%A2%8B--M44840_PM2_Front%20view.png?wid=656&hei=656
+細節
+24 x 13.5 x 4 厘米
+(長度 x 高度 x 闊度)
+可拆式圓形拉鏈零錢包：長9.0 x 高9.0 x 寬2厘米
+可拆式迷你隨身包：長18.5 x 高10.5 x 寬3厘米
+可拆式隨身包：長23.5 x 高13.5 x 寬4厘米
+粉紅色
+Monogram塗層帆布
+天然牛皮飾邊
+紡織襯裡
+金色金屬件
+肩帶：可拆式，可調節
+肩帶垂直高度：37.0 厘米
+肩帶垂直最大高度：56.0 厘米
+鏈帶：可拆式
+鏈帶垂直高度：24.0 厘米
+此產品於法國、西班牙、意大利或美國製造
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
