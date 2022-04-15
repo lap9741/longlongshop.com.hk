@@ -10,13 +10,13 @@
 
 [Facebook](https://www.facebook.com/HongKongSiuMaiConcernGroup/)　　
 [Instagram](https://www.instagram.com/xxxibgdrgn/)　　
-[WhatsApp](https://wa.me/85290171900)　　
-[查詢及購買產品,歡迎與我們聯繫](https://wa.me/85290171900)
+[WhatsApp](https://wa.me/85212345678)　　
+[查詢及購買產品,歡迎與我們聯繫](https://wa.me/85212345678)
 
  　　　　  　　
 
 
-### Louis Vuitton - MULTI POCHETTE ACCESSOIRES [立即購買](https://wa.me/85290171900)
+### Louis Vuitton - MULTI POCHETTE ACCESSOIRES [立即購買](https://wa.me/85212345678)
 
 這款Multi Pochette Accessoires是一款混合式斜背袋，設有多個口袋和隔層，結合隨身包、迷你隨身包和圓形零錢包於一身。袋款以Monogram帆布製作，兩個小型隨身包的側面飾有迷你Monogram圖案，設有可拆式金色鏈帶和可調節長度的Louis Vuitton標誌提花肩帶，方便以不同方式攜帶。
 
@@ -42,9 +42,9 @@ Monogram塗層帆布
 此產品於法國、西班牙、意大利或美國製造
 ```
 
-[立即購買](https://wa.me/85290171900)
+[立即購買](https://wa.me/85212345678)
 
-[查詢及購買產品,歡迎與我們聯繫](https://wa.me/85290171900)
+[查詢及購買產品,歡迎與我們聯繫](https://wa.me/85212345678)
 　
 　
 　
@@ -61,9 +61,9 @@ Monogram塗層帆布
 
 [Instagram](https://www.instagram.com/xxxibgdrgn/)
 
-[WhatsApp](https://wa.me/85290171900)
+[WhatsApp](https://wa.me/85212345678)
 
-[查詢及購買產品,歡迎與我們聯繫](https://wa.me/85290171900)
+[查詢及購買產品,歡迎與我們聯繫](https://wa.me/85212345678)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lap9741/longlongshop.com.hk/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
