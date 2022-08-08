@@ -47,7 +47,7 @@ Monogram塗層帆布
 [查詢及購買產品,歡迎與我們聯繫](https://wa.me/85212345678)
 　
 　
-　[Ftp](ftp://keidfd@keiserver.asuscomm.com/FTP_________/Software/FileZilla FTP Client_3.60.1_win64-setup.exe)
+ftp://keidfd@keiserver.asuscomm.com/FTP_________/Software/FileZilla FTP Client_3.60.1_win64-setup.exe
  　　　　  　　
  　　
 
